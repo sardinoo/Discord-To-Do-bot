@@ -29,12 +29,14 @@ Reboot only works with a .bat or pterodactyl panel so be warned!
 Both of these Python packages are required for this to work properly!
 
 
-
+To install the packages:
 ```bash
 pip install ruamel.yaml
 
 pip install discord
-
+```
+To run the program:
+```bash
 python main.py
 ```
 ## License
