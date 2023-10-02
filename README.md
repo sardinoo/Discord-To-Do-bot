@@ -1,5 +1,4 @@
-a simple discord.py bot that helps organize discords with a todo list.
-this bot works by listening for inputs in a channel and giving them a button.# Project Name
+# Project Name
 
 [Project Description]
 
