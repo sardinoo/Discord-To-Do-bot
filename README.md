@@ -1,6 +1,6 @@
-# Project Name
+# To-Do bot
 
-[Project Description]
+This bot just listens for a specific channel and reposts it with a button.
 
 ## Table of Contents
 
