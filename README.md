@@ -8,8 +8,6 @@ This bot just listens for a specific channel and reposts it with a button.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
@@ -30,6 +28,9 @@ Reboot only works with a .bat or pterodactyl panel so be warned!
 [Provide step-by-step instructions on how to install your project or set it up. Include any configuration steps necessary.]
 
 ```bash
-# Example installation command
 pip install ruamel.yaml
 pip install discord
+```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
