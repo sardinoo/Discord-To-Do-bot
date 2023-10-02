@@ -14,13 +14,16 @@ This bot just listens for a specific channel and reposts it with a button.
 
 ## About
 
-[Provide a brief introduction to your project. Explain what it does, why it's useful, and any other relevant information.]
+This is a simple to-do bot that helps your organize what you need to do!
+Feel free to use this however you like, I however will not claim any responsibility for anything you do with this!
 
 ## Getting Started
 
 ### Prerequisites
 
-[Specify any prerequisites that are required to use or run your project. This may include software dependencies, libraries, or other tools.]
+Python 3.11 is recommended
+ruamel.yaml and discord is required for this to work!
+Reboot only works with a .bat or pterodactyl panel so be warned!
 
 ### Installation
 
@@ -28,4 +31,5 @@ This bot just listens for a specific channel and reposts it with a button.
 
 ```bash
 # Example installation command
-pip install your-package-name
+pip install ruamel.yaml
+pip install discord
