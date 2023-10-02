@@ -1,0 +1,7 @@
+clientid: # id of the bot
+guildid: # id of guild
+token:  # discord bot token
+status: # discord bot status e.g. playing with terror - dont include "playing"
+todo: # the channel that it will listen for
+finished: # where it will end up once the button has been pressed
+welcome_channel: # welcome channel
